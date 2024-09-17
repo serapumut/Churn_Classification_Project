@@ -1,4 +1,3 @@
-# Chunk
 # Churn-Classification-Project
 
 I will work with a [dataset](https://github.com/serapumut/Churn_Classification_Project/blob/main/churn.xlsx) containing information from a fictional telco company that provided home phone and internet services to 7043 customers in California in Q3.
